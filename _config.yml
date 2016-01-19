@@ -1,0 +1,28 @@
+name: nickilolk
+favicon: null
+layout_spectrum: 0.54483552579768
+typography_spectrum: 0.9379618831444532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4541298234835267
+  lightness: 0.3382091373205185
+  saturation: 0.9784889698494226
+  rhythmicContrast: 0.95265783672221
+purpose: []
